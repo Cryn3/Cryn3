@@ -1,5 +1,5 @@
 # Hello World!, I'm Paul, a Russia Developer 👋🏼:
-🚀 Working as a developer since 2022. <br>🌐 Currently growing my own service — EtherVPN. <br>💡 Always learning and striving to deliver quality projects.
+🚀 Working as a developer since 2022. <br>🌐 Currently growing my own service — EtherVPN, AscentStudio. <br>💡 Always learning and striving to deliver quality projects.
 
 
 # 💻 Tech Stack:
